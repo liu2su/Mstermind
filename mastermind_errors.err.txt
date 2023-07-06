@@ -1,0 +1,9 @@
+
+Exception date time:2022-04-25 23:01:18.650130
+Error: [Errno 2] No such file or directory: 'leaderboard.txt'
+Exception date time:2022-04-25 23:02:39.367189
+Error: list index out of range
+Exception date time:2022-05-04 14:34:08.455632
+Error: [Errno 2] No such file or directory: 'leaderboard.txt'
+Exception date time:2023-01-27 19:22:50.060120
+Error: [Errno 2] No such file or directory: 'leaderboard.txt'
